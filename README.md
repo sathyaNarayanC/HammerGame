@@ -1,2 +1,2 @@
 # HammerGame
-HammerGame problem from TechIGG
+HammerGame problem from TechGIG
